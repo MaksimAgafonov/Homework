@@ -1,12 +1,12 @@
 .wrapper {
     height: 100vh;
     width: 100%;
-    background: url(img/intro-bg.jpg) no-repeat center;
+    background: url(https://img.desktopwallpapers.ru/world/pics/wide/1920x1200/d93e885dc801ded61c411b308c72e4e5.jpg) no-repeat center;
     background-size: cover;
 }
 
 .sidebar__row {
-    background-color: rgb(255, 0, 106);
+    background-color: rgb(226, 140, 28);
     width: 80px;
     padding: 40px 0px;
     transition: width .4s linear;
