@@ -6,10 +6,10 @@
 }
 
 .sidebar__row {
-    background-color: rgb(226, 140, 28);
+    background-color: rgb(39, 201, 6);
     width: 80px;
     padding: 40px 0px;
-    transition: width .4s linear;
+    transition: width .2s linear;
 }
 
 .sidebar___about {
@@ -31,7 +31,7 @@ i, .about__text {
 }
 
 .sidebar___about:hover, .sidebar___about:hover i, .sidebar___about:hover>.about__text {
-    color: red;
+    color: rgb(46, 185, 76);
     background-color: black;
 }
 
