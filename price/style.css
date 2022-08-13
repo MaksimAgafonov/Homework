@@ -17,12 +17,12 @@ body {
 }
 
 .card .details li {
-    margin: 20px 0;
+    margin: 30px 0;
 }
 
 .card {
     width: 220px;
-    height: 400px;
+    height: 500px;
     border-radius: 1.5rem;
     padding: 30px;
     box-shadow: 2px 2px 46px -4px rgba(0, 0, 0, 0.6);
